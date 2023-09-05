@@ -17,6 +17,10 @@ CLAW -
 4. Use the "Search" feature in the application to search for specific text within the log file.
 5. You can search using a date, time, or the specific word you are looking for.
 
+![claw](https://github.com/pacanowsky/CLAW/assets/98670364/9bbf91af-dd29-44f0-a3c2-049e15b5278e)
+![claw2](https://github.com/pacanowsky/CLAW/assets/98670364/c983b4bf-f0ab-483b-b825-46e1ae8115e7)
+
+
 ## Creator
 
 Project created by Dominik Pacanowski.
